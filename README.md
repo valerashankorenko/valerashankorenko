@@ -44,3 +44,6 @@
 </div>
 
 ###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=valerashankorenko&color=blueviolet&style=plastic" alt="My Image">
+</p>
