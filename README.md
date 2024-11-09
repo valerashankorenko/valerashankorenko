@@ -19,7 +19,7 @@
 ###
 
 <p align="center">
- <img width="600" src="core/github-snake.svg" alt="snake"/>
+ <img width="600" src="core/github-user-contribution.svg" alt="snake"/>
 </p>
 
 ###
