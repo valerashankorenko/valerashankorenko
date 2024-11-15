@@ -62,7 +62,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=valerashankorenko&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=valerashankorenko&theme=dark&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&locale=ru&mode=weekly)](https://git.io/streak-stats)
 </div>
 
 ###
